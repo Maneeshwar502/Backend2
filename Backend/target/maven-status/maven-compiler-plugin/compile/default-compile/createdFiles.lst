@@ -1,0 +1,8 @@
+com\configuration\WebAppConfig.class
+com\dao\UserDao.class
+com\model\Errorclass.class
+com\model\User.class
+Project2\Backend\App.class
+com\configuration\WebAppInitializer.class
+com\configuration\DatabaseConfiguration.class
+com\DaoImpl\UserDaoimpl.class
